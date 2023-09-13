@@ -26,16 +26,16 @@ global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
 global.email = 'kumpulanfilm080@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'օʀȶɨʐɮօȶ' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'օʀȶɨʐɮօȶ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ᎧᏒᏖᎥፚᏰᎧᎩ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ɮʊʀօɛռɢ7 ʝɛռ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ɮʊʀօɛռɢ7 ʝɛռ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ɮʊʀօɛռɢ7 ʝɛռ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281262821428'] // ubah aja pake nomor lu
-global.premium = ['6281262821428'] // ubah aja pake nomor lu
-global.packname = 'ᎧᏒᏖᎥፚᏰᎧᎩ' // ubah aja
-global.ownerr = ['ᎧᏒᏖᎥፚᏰᎧᎩ'] // ubaha aja
-global.author = 'ᎧᏒᏖᎥፚᏰᎧᎩ' //ubah aja
+global.owner = ['6285247097735'] // ubah aja pake nomor lu
+global.premium = ['6285247097735'] // ubah aja pake nomor lu
+global.packname = 'ɮʊʀօɛռɢ7' // ubah aja
+global.ownerr = ['ɮʊʀօɛռɢ7'] // ubaha aja
+global.author = 'ɮʊʀօɛռɢ7' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
